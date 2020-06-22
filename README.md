@@ -2,9 +2,16 @@
 
 > Docker + Python (com cx Oracle).
 
-**Obs. 1**: Fork de [catbinary/cx_oracle](https://github.com/catbinary/cx_oracle).
+## Pull
 
-**Obs. 2:** Específico para projetos da [Cerdil](https://cerdil.com.br).
+```bash
+docker pull cerdil/cx_oracle:1
+```
+
+## Observações
+
+- Fork de [catbinary/cx_oracle](https://github.com/catbinary/cx_oracle).
+- Específico para projetos da [Cerdil](https://cerdil.com.br).
 
 ## Especificações
 
