@@ -1,20 +1,9 @@
-# cx_Oracle
+# pyoic
 
-> Docker + Python (com cx Oracle).
+> Docker image with Python and Oracle Instant Client.
 
-## Pull
+*(Based on repository [catbinary/cx_oracle](https://github.com/catbinary/cx_oracle).)*
 
-```bash
-docker pull cerdil/cx_oracle:1
-```
+## Tags
 
-## Observações
-
-- Fork de [catbinary/cx_oracle](https://github.com/catbinary/cx_oracle).
-- Específico para projetos da [Cerdil](https://cerdil.com.br).
-
-## Especificações
-
-- Oracle Instant Client v12.2
-- Python v3
-- cx-Oracle v7.3
+- `py3-oic12.2` ― **Python 3** and **Oracle Instant Client v12.2**
