@@ -6,4 +6,4 @@
 
 ## Tags
 
-- `py3-oic12.2` ― **Python 3** and **Oracle Instant Client v12.2**
+- `py3-oic12.2` ― Python 3 and Oracle Instant Client v12.2
